@@ -1,5 +1,11 @@
 # Posture Detection System
 
+<div align="center">
+   
+![Posture Tracking GIF](https://github.com/Zauler/Posture_Corrector/blob/main/posture_detection_reduce.gif)
+
+</div>
+
 This project aims to detect bad posture using computer vision and machine learning techniques. By leveraging **MediaPipe** and **OpenCV**, the system analyzes key points on the human body, such as the nose and shoulders, to determine whether a person maintains a good or bad posture. The detection is based on calculating the angles between these key points and comparing them with predefined thresholds.
 
 ## Project Description
